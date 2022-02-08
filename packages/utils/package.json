@@ -1,0 +1,19 @@
+{
+  "name": "@lsm-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "lsm-cli-dev utils",
+  "author": "lishunming <lishunming@kp99.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from utils\""
+  }
+}
