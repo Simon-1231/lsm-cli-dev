@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "lsm-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@lsm-cli-dev/utils": "^0.0.1"
-  }
+  },
+  "gitHead": "a6ed33ba516758c78b5b35587424d4327afe6f30"
 }
