@@ -1,6 +1,6 @@
 {
   "name": "@lsm-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "lsm-cli-dev core",
   "author": "lishunming <lishunming@kp99.cn>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from core\""
   },
   "dependencies": {
-    "@lsm-cli-dev/utils": "^1.0.1"
+    "@lsm-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "7576961050820a554ac1a90c891f45a0ef93c405",
   "publishConfig": {
