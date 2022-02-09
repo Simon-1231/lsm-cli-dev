@@ -22,5 +22,8 @@
   "dependencies": {
     "@lsm-cli-dev/utils": "^1.0.1"
   },
-  "gitHead": "ed2b0eff196aff0e2ee2e40bca2a4740cbb32e7e"
+  "gitHead": "7576961050820a554ac1a90c891f45a0ef93c405",
+  "publishConfig": {
+    "access": "public"
+  }
 }
