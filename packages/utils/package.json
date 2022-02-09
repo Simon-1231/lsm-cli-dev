@@ -1,6 +1,6 @@
 {
   "name": "@lsm-cli-dev/utils",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "lsm-cli-dev utils",
   "author": "lishunming <lishunming@kp99.cn>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from utils\""
   },
-  "gitHead": "a6ed33ba516758c78b5b35587424d4327afe6f30"
+  "gitHead": "ed2b0eff196aff0e2ee2e40bca2a4740cbb32e7e"
 }
